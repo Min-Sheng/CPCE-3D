@@ -16,7 +16,7 @@ In order to start the training process, please prepare your ``training data`` in
 * ``data``: N x D x W x H
 * ``label``: N x W x H 
 
-Here N, D, W, and H are number, depth, width, and height of the input data, respectively. Each label corresponds to the central slice of input data. Then ``data`` and ``label`` are stored in a ``h5`` file.
+Here N, D, W, and H are number, depth, width, and height of the input data, respectively. Each label corresponds to the central slice of input data. Then ``data`` and ``label`` are stored in a ``hdh5`` file.
 
 ### Pre-trained VGG model
 
