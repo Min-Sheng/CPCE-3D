@@ -1,6 +1,7 @@
 # Low-Dose CT via Transfer Learning from a 2D Trained Network
 
 This repository contains the code for CPCE-3D network introduced in the following paper
+
 [3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network](https://arxiv.org/abs/1802.05656) (IEEE TMI)
 
 ## Installation
@@ -12,10 +13,10 @@ Make sure you have [Python](https://www.python.org/) installed, then install [Te
 
 In order to start the training process, please prepare your ``training data`` in the following form:
 
-* ``data``: $N \times D \times W \times H$
-* ``label``: $N \times W \times H$ 
+* ``data``: N x D x W x H
+* ``label``: N x W x H 
 
-Here $N$, $D$, $W$, and $H$ are number, depth, width, and height of the input data, respectively. Each label corresponds to the central slice of input data. Then ``data`` and ``label`` are stored in a ``h5`` file.
+Here N, D, W, and H are number, depth, width, and height of the input data, respectively. Each label corresponds to the central slice of input data. Then ``data`` and ``label`` are stored in a ``h5`` file.
 
 ### Pre-trained VGG model
 
@@ -44,7 +45,8 @@ If you found this code or our work useful please cite us
 
 ## Contact
 
-``shanh at rpi dot edu``
+shanh at rpi dot edu
+
 Any discussions, suggestions and questions are welcome!
 
 
