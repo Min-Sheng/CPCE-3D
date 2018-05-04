@@ -2,7 +2,7 @@
 
 This repository contains the code for CPCE-3D network introduced in the following paper
 
-[3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network](https://arxiv.org/abs/1802.05656) (IEEE TMI)
+[3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network](https://doi.org/10.1109/TMI.2018.2832217) (IEEE TMI)
 
 ## Installation
 Make sure you have [Python](https://www.python.org/) installed, then install [TensorFlow](https://www.tensorflow.org/install/) and [Scikit-learn](http://scikit-learn.org/) on your system.
