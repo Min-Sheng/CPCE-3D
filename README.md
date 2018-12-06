@@ -35,11 +35,14 @@ If you found this code or our work useful please cite us
 
 ```
 @article{shan20183d,
-  title={3D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2D Trained Network},
-  author={Shan, Hongming and Zhang, Yi and Yang, Qingsong and Kruger, Uwe and Kalra, K. Mannudeep and Sun, Ling and Cong, Wenxiang and Wang, Ge},
-  journal={IEEE Transactions on Medical Imaging}
-  url={arXiv preprint arXiv:1802.05656},
-  year={2018}
+  title={3-D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning from a 2-D Trained Network},
+  author={Shan, Hongming and Zhang, Yi and Yang, Qingsong and Kruger, Uwe and Kalra, Mannudeep K and Sun, Ling and Cong, Wenxiang and Wang, Ge},
+  journal={IEEE Transactions on Medical Imaging},
+  volume={37},
+  number={6},
+  pages={1522--1534},
+  year={2018},
+  publisher={IEEE}
 }
 ```
 
